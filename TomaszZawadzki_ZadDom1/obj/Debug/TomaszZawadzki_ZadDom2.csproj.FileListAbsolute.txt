@@ -1,0 +1,15 @@
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\bin\Debug\TomaszZawadzki_ZadDom2.exe.config
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\bin\Debug\TomaszZawadzki_ZadDom2.exe
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\bin\Debug\TomaszZawadzki_ZadDom2.pdb
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\bin\Debug\Interop.WMPLib.dll
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\obj\Debug\TomaszZawadzki_ZadDom2.csprojAssemblyReference.cache
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\obj\Debug\Interop.WMPLib.dll
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\obj\Debug\TomaszZawadzki_ZadDom2.csproj.ResolveComReference.cache
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\obj\Debug\TomaszZawadzki_ZadDom1.Form1.resources
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\obj\Debug\TomaszZawadzki_ZadDom2.Properties.Resources.resources
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\obj\Debug\TomaszZawadzki_ZadDom2.csproj.GenerateResource.cache
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\obj\Debug\TomaszZawadzki_ZadDom2.csproj.CoreCompileInputs.cache
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\obj\Debug\TomaszZawadzki_ZadDom2.exe
+C:\Users\toome\Desktop\Kredek\tomasz_zawadzki\lab2\TomaszZawadzki_ZadDom2\TomaszZawadzki_ZadDom1\obj\Debug\TomaszZawadzki_ZadDom2.pdb
